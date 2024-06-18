@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Newstein123
 - 👀 I’m interested in Web Development and programming
-- 🌱 I’m currently learning larvael, React Js and php 
+- 🌱 I’m currently working as a freelance software developer
 - 💞️ I’m looking to collaborate on web development and software development projects
 - 📫 How to reach me tel: 95+ 9770 139 207 email: minthetpaing376@gmail.com 
 
